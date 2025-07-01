@@ -15,7 +15,7 @@ A door monitoring system using ESP32, a reed sensor, and an active buzzer. Logs 
 
 ## 🔁 Flowchart
 
-![Flowchart](assets/door-flowchart.png)
+![Flowchart](assets/Smart_Door_Alert.drawio.png)
 
 ---
 
