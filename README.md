@@ -25,7 +25,7 @@ This is a **summary-only** repo. The actual implementation is private.
 
 🔒 To request access:
 - Open an issue [here](https://github.com/yourusername/smart-door-alert-summary/issues/new?title=Request+for+code+access&body=Hi%2C+please+grant+me+access+to+the+private+code+repo+for+this+project.)
-- Or email me at **your.email@example.com**
+- Or email me at **vikas.vivekanathan@gmail.com**
 
 ---
 
