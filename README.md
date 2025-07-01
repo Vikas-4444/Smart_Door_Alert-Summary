@@ -24,7 +24,7 @@ A door monitoring system using ESP32, a reed sensor, and an active buzzer. Logs 
 This is a **summary-only** repo. The actual implementation is private.
 
 🔒 To request access:
-- Open an issue [here](https://github.com/yourusername/smart-door-alert-summary/issues/new?title=Request+for+code+access&body=Hi%2C+please+grant+me+access+to+the+private+code+repo+for+this+project.)
+- Open an issue [here](https://github.com/Vikas-4444/Smart_Door_Alert-Summary/issues/new?title=Request+for+code+access&body=Hi%2C+please+grant+me+access+to+the+private+code+repo+for+this+project.)
 - Or email me at **vikas.vivekanathan@gmail.com**
 
 ---
